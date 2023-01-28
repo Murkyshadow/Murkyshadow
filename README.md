@@ -18,4 +18,3 @@
   <img src="https://profile-counter.glitch.me/Murkyshadow/count.svg" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
