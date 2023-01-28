@@ -1,4 +1,4 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+![](https://github.com/Murkyshadow/Murkyshadow/blob/main/who.gif)
 
 <a href=#><img src="github-user-contribution.svg"></a>
 
