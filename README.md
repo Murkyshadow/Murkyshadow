@@ -4,9 +4,9 @@
 
 <a href=#><img src="github-user-contribution.svg"></a>
 
-<h1 align="center">
+<p align="center">
 <img src="https://github.com/Murkyshadow/Murkyshadow/blob/main/who.gif" height="32"/>
-</h1>
+</p>
 
 <p align="center"> 
   Visitor count<br>
