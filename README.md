@@ -1,9 +1,6 @@
 ![](https://github.com/Murkyshadow/Murkyshadow/blob/main/who.gif)
-
-<a href=#><img src="github-user-contribution.svg"></a>
-
 <h1 align="center">
-<img src="https://github.com/Murkyshadow/Murkyshadow/blob/main/who.gif" height="32"/>
+<a href=#><img src="github-user-contribution.svg"></a>
 </h1>
 
 <p align="center"> 
